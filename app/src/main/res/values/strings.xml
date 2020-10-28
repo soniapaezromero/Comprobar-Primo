@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comprobarprimo</string>
+    <string name="numero" />
+    <string name="textview" />
+    <string name="todo">TODO</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="calcular">Calcular</string>
+    <string name="introduce_un_n_mero">Introduce un número</string>
+</resources>
